@@ -1,1 +1,1 @@
-Docker image containing `jinja2` CLI
+Docker image containing `jinja2` CLI.
